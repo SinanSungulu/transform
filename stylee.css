@@ -5,6 +5,7 @@
     list-style-type: none;
     text-decoration: none;
     font-family: myFirstFont;
+    transition-delay: 0.1s !important;
 }
 @font-face {
     font-family: content-1;
